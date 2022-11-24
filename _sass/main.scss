@@ -27,3 +27,12 @@ nav {
   display: flex;
   justify-content: space-evenly;
 }
+
+a, a:visited, a:active {
+  color: rgb(0, 0, 238);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
