@@ -35,4 +35,8 @@ a, a:visited, a:active {
   &:hover {
     text-decoration: underline;
   }
+
+  &.current {
+    color: rgb(0, 0, 0);
+  }
 }

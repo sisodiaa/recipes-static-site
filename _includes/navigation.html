@@ -1,8 +1,8 @@
 <nav>
-  <a href="/">
+  <a href="/" {% if page.url == "/" %} class="current" {% endif %}>
     Home
   </a>
-  <a href="/recipes.html">
+  <a href="/recipes.html" {% if page.url == "/recipes.html" %} class="current" {% endif %}>
     Recipes
   </a>
 </nav>
