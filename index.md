@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Homepage"
 ---
 
 # Abhishek's Cook Book
