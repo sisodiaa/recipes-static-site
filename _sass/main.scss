@@ -20,3 +20,10 @@ table, th, td {
 th, td {
   padding: 10px;
 }
+
+nav {
+  margin-top: 16px;
+  margin-bottom: 32px;
+  display: flex;
+  justify-content: space-evenly;
+}
