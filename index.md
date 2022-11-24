@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "Home"
 ---
 
 # Abhishek's Cook Book
