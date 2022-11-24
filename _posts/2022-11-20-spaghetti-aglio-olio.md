@@ -1,4 +1,7 @@
-# Recipe for Spaghetti Aglio e Olio
+---
+layout: post
+title: Spaghetti Aglio e Olio
+---
 
 ## Ingredients
 - 1 pound uncooked spaghetti

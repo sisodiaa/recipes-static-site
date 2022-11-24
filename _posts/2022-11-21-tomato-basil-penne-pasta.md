@@ -1,4 +1,7 @@
-# Recipe for Tomato Basil Penne Pasta
+---
+layout: post
+title: Tomato Basil Penne Pasta
+---
 
 ## Ingredients
 - 1 (8 ounce) package penne pasta
