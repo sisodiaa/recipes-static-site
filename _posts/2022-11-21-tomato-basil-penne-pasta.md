@@ -7,6 +7,8 @@ total_time: 45
 servings: 4
 ---
 
+This penne pasta is a Mediterranean-style family staple.
+
 ## Ingredients
 - 1 (8 ounce) package penne pasta
 - 1 tablespoon basil oil

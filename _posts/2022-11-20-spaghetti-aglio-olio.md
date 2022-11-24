@@ -7,6 +7,8 @@ total_time: 15
 servings: 4
 ---
 
+No two aglio e olio recipes are alike, but this one is pretty true to the classic method.
+
 ## Ingredients
 - 1 pound uncooked spaghetti
 - ½ cup olive oil
