@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Spaghetti Aglio e Olio
+preparation_time: 10
+cooking_time: 15
+total_time: 15
+servings: 4
 ---
 
 ## Ingredients

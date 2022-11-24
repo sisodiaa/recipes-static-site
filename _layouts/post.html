@@ -4,4 +4,19 @@ layout: default
 <h1>Recipe for {{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
 
+<table>
+  <tr>
+    <th>Preparaton Time</th>
+    <th>Cooking Time</th>
+    <th>Total Time</th>
+    <th>Servings</th>
+  </tr>
+  <tr>
+    <td>{{ page.preparation_time }} minutes</td>
+    <td>{{ page.cooking_time }} minutes</td>
+    <td>{{ page.total_time }} minutes</td>
+    <td>{{ page.servings }}</td>
+  </tr>
+</table>
+
 {{ content }}

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Tomato Basil Penne Pasta
+preparation_time: 20
+cooking_time: 25
+total_time: 45
+servings: 4
 ---
 
 ## Ingredients
