@@ -3,12 +3,10 @@ layout: default
 title: "Homepage"
 ---
 
-# Abhishek's Cook Book
+# Cook Book
 
-I love to think about, write about, and share and eat food.
-My true passion, however, is helping others discover their love of cooking.
-Like most of you, I am not formally trained in the culinary arts
-I'm far from being a Chef, but I feel confident in my cooking skills and I know 
-that you can feel the same way.
+Fresh, flavorful and (mostly) healthy recipes made for real, actual, every day life. 
+Helping you celebrate the joy of food in a totally non-intimidating way.
+Browse hundreds of easy and delicious Indian recipes covering vegetarian, meat, breakfast, dinner, dessert and more.
 
-This text is taken from a [blog page](http://www.grillachef.com/2011/01/allow-me-to-introduce-myself.html).
+Text taken from [Pinch of Yum](https://pinchofyum.com/) and [My Food Story](https://myfoodstory.com/).
