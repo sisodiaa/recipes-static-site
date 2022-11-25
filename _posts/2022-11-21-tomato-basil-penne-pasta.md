@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Tomato Basil Penne Pasta
+summary: This penne pasta is a Mediterranean-style family staple
 preparation_time: 20
 cooking_time: 25
 total_time: 45
 servings: 4
 ---
 
-This penne pasta is a Mediterranean-style family staple.
-
 ![Tomato Basil Penne Pasta](/assets/images/penne-pasta.jpeg){: .post__image}
+
+This penne pasta is a Mediterranean-style family staple.
 
 ## Ingredients
 - 1 (8 ounce) package penne pasta

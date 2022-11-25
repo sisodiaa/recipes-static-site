@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Spaghetti Aglio e Olio
+summary: No two aglio e olio recipes are alike, but this one is pretty true to the classic method
 preparation_time: 10
 cooking_time: 15
 total_time: 15
 servings: 4
 ---
 
-No two aglio e olio recipes are alike, but this one is pretty true to the classic method.
-
 ![Spaghetti Aglio e Olio](/assets/images/aglio-olio.jpeg){: .post__image}
+
+No two aglio e olio recipes are alike, but this one is pretty true to the classic method.
 
 ## Ingredients
 - 1 pound uncooked spaghetti
