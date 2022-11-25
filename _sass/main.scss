@@ -13,12 +13,18 @@ body {
   max-width: 1024px;
 }
 
-table, th, td {
-  border: 1px solid black;
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 th, td {
   padding: 10px;
+
+  &:first-child {
+    padding-left: 0px;
+  }
 }
 
 nav {
