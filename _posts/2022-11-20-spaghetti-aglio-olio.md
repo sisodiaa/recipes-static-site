@@ -9,6 +9,8 @@ servings: 4
 
 No two aglio e olio recipes are alike, but this one is pretty true to the classic method.
 
+![Spaghetti Aglio e Olio](/assets/images/aglio-olio.jpeg){: .post__image}
+
 ## Ingredients
 - 1 pound uncooked spaghetti
 - ½ cup olive oil
@@ -34,3 +36,5 @@ Pour in hot olive oil and garlic, and sprinkle on Italian parsley and half of th
 toss until combined.
 
 4. Serve pasta topped with the remaining Parmigiano-Reggiano cheese.
+
+Recipe copied from [All Recipes](https://www.allrecipes.com/recipe/222000/spaghetti-aglio-e-olio/)

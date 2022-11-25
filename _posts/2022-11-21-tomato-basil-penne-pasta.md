@@ -9,6 +9,8 @@ servings: 4
 
 This penne pasta is a Mediterranean-style family staple.
 
+![Tomato Basil Penne Pasta](/assets/images/penne-pasta.jpeg){: .post__image}
+
 ## Ingredients
 - 1 (8 ounce) package penne pasta
 - 1 tablespoon basil oil
@@ -28,3 +30,5 @@ water until cooked through but still firm to the bite, about 10 minutes. Drain a
 until soft, 1 to 2 minutes. Add tomatoes, reduce heat to medium, and simmer for 
 10 minutes. Stir in pepper Jack, mozzarella, and Parmesan cheese. When cheese 
 begins to melt, mix in cooked penne pasta. Season with fresh basil.
+
+Recipe copied from [All Recipes](https://www.allrecipes.com/recipe/193187/tomato-basil-penne-pasta/)
