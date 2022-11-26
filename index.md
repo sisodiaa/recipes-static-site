@@ -3,7 +3,7 @@ layout: default
 title: "Homepage"
 ---
 
-# Cook Book
+# Recipes Book
 
 Fresh, flavorful and (mostly) healthy recipes made for real, actual, every day life. 
 Helping you celebrate the joy of food in a totally non-intimidating way.
