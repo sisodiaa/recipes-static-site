@@ -21,6 +21,7 @@ table {
 
 th, td {
   padding: 10px;
+  vertical-align: top;
 
   &:first-child {
     padding-left: 0px;
@@ -47,10 +48,19 @@ a, a:visited, a:active {
   }
 }
 
+h1.post__heading {
+  text-align: center;
+}
+
+p.post__date {
+  text-align: center;
+}
+
 img.post__image {
   display: block;
   margin: 0 auto;
-  width: 60%;
+  width: 80%;
+  min-width: 320px;
   border-radius: 10px;
   filter: drop-shadow(0 0 0.05rem);
 }
